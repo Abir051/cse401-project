@@ -43,3 +43,17 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+#contactus{
+    height: 300px;
+}
+.container h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
