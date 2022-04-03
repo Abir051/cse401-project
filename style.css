@@ -19,3 +19,27 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-color: violet;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cat2{
+    background-color: turquoise;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cat3{
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
